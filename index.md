@@ -1,5 +1,4 @@
-# <a name="home"></a>Full brain picture
-## _Analytics_
+# <a name="home"></a>Full brain picture _Analytics_
 
 Brain are fascinating. For many years, I have studied the human brain with magnetic resonance imaging, microscopy, and computational methods, building dedicated software and elaborate pipelines along the way. Now, I am offering my expertise as a service to other researchers, to help the neuroimaging research community more widely and directly. If you are interested in my <a href="#code">expertise</a>, see what <a href="#code">services</a> I offer and <a href="#code">get in touch</a>!
 
