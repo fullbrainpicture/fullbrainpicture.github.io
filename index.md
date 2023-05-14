@@ -17,7 +17,9 @@ Brain are fascinating. For many years, I have studied the human brain with magne
 
 ## <a names="expertise"></a>Expertise
 
-- _(ultra-)high-resolution MRI_ If you're aiming (well) below the millimeter, many toolboxes will not like you.
+####(ultra-)high-resolution MRI
+If you're aiming (well) below the millimeter, many toolboxes will not like you.
+
 - _brain parcellation: cortical layers, subcortex, cerebellum_ All of the brain, all of the time.
 - _quantitative MRI analysis_ Quantitative techniques are very powerful, but require a bit more than a button press on the scanner.
 - _computational neuroanatomy_ Measuring shape is not easy.
@@ -27,7 +29,7 @@ See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google 
 
 ## <a names="philosophy"></a>Philosophy
 
-### 100% open science, all the way.
+#### 100% open science, all the way.
 Science only works when it is shared: this is how I have approached my work, from the first open software I released in 2001.
 All my work uses and generates open source software. I strive to publish high quality open data sets, software and articles.
 Would you like to do the same, but you're not sure where to start? I'll be happy to help, get in touch. Open science is not
