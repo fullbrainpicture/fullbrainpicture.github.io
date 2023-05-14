@@ -7,20 +7,19 @@ Brain are fascinating. For many years, I have studied the human brain with magne
 
 ## <a name="services"></a>Services
 
-- _Scientific consulting_ Sometimes you just need to discuss an idea, get some external viewpoint or expert advice. Maybe I can help!
+- _Scientific consulting:_ Sometimes you just need to discuss an idea, get some external viewpoint or expert advice. Maybe I can help!
 
-- _Image analysis pipelines_ Setting up the right processing steps in the right order for a neuroimaging pipeline is often daunting. I have a lot of experience doing it right (and doing it wrong too sometimes), so I can save a lot of time and avoid many problems for you.
+- _Image analysis pipelines:_ Setting up the right processing steps in the right order for a neuroimaging pipeline is often daunting. I have a lot of experience doing it right (and doing it wrong too sometimes), so I can save a lot of time and avoid many problems for you.
 
-- _Methods development_ When you are working with brand new imaging techniques or measuring something new, there often isn't the right toolbox ready for you. I have created many customized tools using optimized algorithms to extract information from novel images, and I always welcome a new challenge.
+- _Methods development:_ When you are working with brand new imaging techniques or measuring something new, there often isn't the right toolbox ready for you. I have created many customized tools using optimized algorithms to extract information from novel images, and I always welcome a new challenge.
 
-- _Training and tutorials_ Once you have the right methods ready to analyze your imagign data, you still want to understand what it does, and what it doesn't. Maybe you want to use it new data later on, or try different parameters. I can guide you through the techniques, map their limitations, and explain their important parameters so that you canmaster them yourself.
+- _Training and tutorials:_ Once you have the right methods ready to analyze your imagign data, you still want to understand what it does, and what it doesn't. Maybe you want to use it new data later on, or try different parameters. I can guide you through the techniques, map their limitations, and explain their important parameters so that you canmaster them yourself.
 
 ## <a names="expertise"></a>Expertise
 
-_(ultra-)high-resolution MRI_
-If you're aiming (well) below the millimeter, many toolboxes will not like you.
+-*(ultra-)high-resolution MRI* If you're aiming (well) below the millimeter, many toolboxes will not like you.
 
-_brain parcellation: cortical layers, subcortex, cerebellum_ 
+-_brain parcellation: cortical layers, subcortex, cerebellum_ 
 All of the brain, all of the time.
 
 _quantitative MRI analysis_
