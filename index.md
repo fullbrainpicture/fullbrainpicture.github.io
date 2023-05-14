@@ -8,19 +8,30 @@ neuroscience. This workshop aims to bring together some of the world's experts i
 discuss recent results from multiple techniques and foster interactions within this often disregarded
 region of the brain.
 
-## <a name="speakers"></a>Services
+## <a name="services"></a>Services
 
 - stuff
 - more stuff
 
-## <a names="orga"></a>Open science
+## <a names="expertise"></a>Expertise
 
 
 
-## <a name="program"></a>Contact
+See my  <a href="https://github.com/orderedlist">Google Scholar pageorderedlist</a>) for projects I have contributed to.
 
-See the [full program](Terra-Incognita-2021-program.pdf) for details.
 
+## <a names="philosophy"></a>Philosophy
+
+# 100% open science, all the way.
+Science only works when it is shared: this is how I have approached my work, from the first open software I released in 2001.
+All my work uses and generates open source software. I strive to publish high quality open data sets, software and articles.
+Would you like to do the same, but you're not sure where to start? I'll be happy to help, get in touch. Open science is not
+only good for the scientific community at large, it also makes it easier to show off your work and start collaborations.
+
+
+## <a name="contact"></a>Contact
+
+Get in touch via <a href="mailto:info@fullbrainpicture.nl">e-mail</a> for a quote. 
 
 
 ---
