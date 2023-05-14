@@ -22,7 +22,7 @@ See my  <a href="https://github.com/orderedlist">Google Scholar pageorderedlist<
 
 ## <a names="philosophy"></a>Philosophy
 
-# 100% open science, all the way.
+### 100% open science, all the way.
 Science only works when it is shared: this is how I have approached my work, from the first open software I released in 2001.
 All my work uses and generates open source software. I strive to publish high quality open data sets, software and articles.
 Would you like to do the same, but you're not sure where to start? I'll be happy to help, get in touch. Open science is not
