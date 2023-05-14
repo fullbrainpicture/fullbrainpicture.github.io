@@ -17,7 +17,7 @@ Brain are fascinating. For many years, I have studied the human brain with magne
 
 ## <a names="expertise"></a>Expertise
 
-####(ultra-)high-resolution MRI
+#### (ultra-)high-resolution MRI
 If you're aiming (well) below the millimeter, many toolboxes will not like you.
 
 - _brain parcellation: cortical layers, subcortex, cerebellum_ All of the brain, all of the time.
