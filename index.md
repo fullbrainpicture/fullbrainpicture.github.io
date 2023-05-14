@@ -17,13 +17,13 @@ Brain are fascinating. For many years, I have studied the human brain with magne
 
 ## <a names="expertise"></a>Expertise
 
--**(ultra-)High-resolution MRI** If you're aiming (well) below the millimeter, many toolboxes will not like you.
+**(ultra-)High-resolution MRI** If you're aiming (well) below the millimeter, many toolboxes will not like you.
 
--**Brain parcellation: cortical layers, subcortex, cerebellum** All of the brain, all of the time.
+**Brain parcellation: cortical layers, subcortex, cerebellum** All of the brain, all of the time.
 
--**Quantitative MRI analysis** Quantitative techniques are very powerful, but require a bit more than a button press on the scanner.
+**Quantitative MRI analysis** Quantitative techniques are very powerful, but require a bit more than a button press on the scanner.
 
--**Computational neuroanatomy** Measuring shape is not easy.
+**Computational neuroanatomy** Measuring shape is not easy.
 
 See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for projects I have contributed to.
 
