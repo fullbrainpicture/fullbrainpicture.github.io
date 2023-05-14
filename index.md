@@ -1,21 +1,27 @@
 # <a name="home"></a>Full brain picture
 # Analytics
 
-The human subcortex remains terra incognita, a largely uncharted territory. Long-term efforts and
-advances in neuroanatomy, ultra-high field MRI, deep brain recording, and cognitive modeling are
-painting a rich and varied picture, which has very direct implication in fundamental and clinical
-neuroscience. This workshop aims to bring together some of the world's experts in the subcortex to
-discuss recent results from multiple techniques and foster interactions within this often disregarded
-region of the brain.
+Brain are fascinating. For many years, I have studied the human brain with magnetic resonance imaging, microscopy, and computational methods, building dedicated software and elaborate pipelines along the way. Now, I am offering my expertise as a service to other researchers, to help the neuroimaging research community more widely and directly. If you are interested in my <a href="#code">expertise</a>, see what <a href="#code">services</a> I offer and <a href="#code">get in touch</a>!
+
+<p  style="text-align:right">Pilou Bazin</p>
 
 ## <a name="services"></a>Services
 
-- stuff
-- more stuff
+- _(Scientific consulting)_ Sometimes you just need to discuss an idea, get some external viewpoint or expert advice. Maybe I can help!
+
+- _(Image analysis pipelines)_ Setting up the right processing steps in the right order for a neuroimaging pipeline is often daunting. I have a lot of experience doing it right (and doing it wrong too sometimes), so I can save a lot of time and avoid many problems for you.
+
+- _(Methods development)_ When you are working with brand new imaging techniques or measuring something new, there often isn't the right toolbox ready for you. I have created many customized tools using optimized algorithms to extract information from novel images, and I always welcome a new challenge.
+
+- _(Training and tutorials)_ Once you have the right methods ready to analyze your imagign data, you still want to understand what it does, and what it doesn't. Maybe you want to use it new data later on, or try different parameters. I can guide you through the techniques, map their limitations, and explain their important parameters so that you canmaster them yourself.
 
 ## <a names="expertise"></a>Expertise
 
-
+- _((ultra-)high-resolution MRI)_
+- _(brain parcellation: cortical surfaces, subcortex, cerebellum)_
+- _(quantitative MRI analysis)_
+- _(laminar (f)MRI)_
+- _(computational neuroanatomy)_
 
 See my  <a href="https://github.com/orderedlist">Google Scholar pageorderedlist</a>) for projects I have contributed to.
 
