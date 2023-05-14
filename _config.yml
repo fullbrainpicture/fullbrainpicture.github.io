@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 title: " "
 description: "Full brain picture Analytics"
-logo: logo-tiny.png
+logo: logo-small.png
 show_downloads: false
