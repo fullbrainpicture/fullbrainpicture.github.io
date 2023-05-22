@@ -22,9 +22,9 @@ Brains are fascinating. For many years, I have studied the human brain with magn
 
 **Quantitative MRI analysis** Quantitative techniques are very powerful, but require a bit more than a button press on the scanner. I have experience with combining MR images into quantitative estimates, and taking advantage of the intermediate images for lowering the impact of noise and artifacts.
 
-**Computational neuroanatomy** Measuring brain structures is not trivial. With the help of computational geometry and topology, I 
+**Computational neuroanatomy** Measuring the brain is not trivial. With computational geometry and topology techniques, I have quantified structure thickness, modelled topological relationships, or extracted pathological signals and patterns from brain MRI.
 
-See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for projects I have contributed to.
+See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for an up-to-date list of articles from projects I have contributed to.
 
 
 ## <a names="philosophy"></a>Philosophy
@@ -43,7 +43,5 @@ Get in touch via <a href="mailto:info@fullbrainpicture.nl">e-mail</a> for a quot
 
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
- 
 <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
- 
  Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
