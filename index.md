@@ -43,5 +43,4 @@ Get in touch via <a href="mailto:info@fullbrainpicture.nl">e-mail</a> for a quot
 
 ---
  This page is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
-<a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
- Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+  &mdash; Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
