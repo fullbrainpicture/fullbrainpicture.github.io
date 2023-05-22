@@ -16,13 +16,13 @@ Brains are fascinating. For many years, I have studied the human brain with magn
 
 ## <a names="expertise"></a>Expertise
 
-**(ultra-)High-resolution MRI** If you're aiming (well) below the millimeter, many toolboxes will not like you. I have built the first ultra-high field processing toolbox, Nighres, using carefully optimized methods to control complexity and scalability, from 1 millimeter to 200 microns.
+**(ultra-)High-resolution MRI** If you're aiming (well) below the millimeter, many toolboxes will not like you. I have built the first ultra-high field processing toolbox, Nighres, using carefully optimized methods to control complexity and scalability, from 1 millimeter to 200 microns so far.
 
-**Brain parcellation: cortical layers, subcortex, cerebellum, vasculature** All of the brain, all of the time.
+**Brain parcellation: cortical layers, subcortex, cerebellum, vasculature** All of the brain, all of the time. I have developed dedicated analysis techniques to better model cortical lamination and folding, label many subcortical nuclei, approximate the cerebellar surface, or reconstruct vascular trees, based on MRI contrasts, knowledge priors, and computational techniques that bring them together.
 
-**Quantitative MRI analysis** Quantitative techniques are very powerful, but require a bit more than a button press on the scanner.
+**Quantitative MRI analysis** Quantitative techniques are very powerful, but require a bit more than a button press on the scanner. I have experience with combining MR images into quantitative estimates, and taking advantage of the intermediate images for lowering the impact of noise and artifacts.
 
-**Computational neuroanatomy** Brain structures are often complex shapes, but computational geometry and topology can help.
+**Computational neuroanatomy** Measuring brain structures is not trivial. With the help of computational geometry and topology, I 
 
 See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for projects I have contributed to.
 
