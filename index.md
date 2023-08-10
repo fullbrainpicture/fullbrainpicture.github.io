@@ -24,7 +24,7 @@ Brains are fascinating. For many years, I have studied the human brain with magn
 
 **Computational neuroanatomy** Measuring the brain is not trivial. With computational geometry and topology techniques, I have quantified structure thickness, modelled topological relationships, or extracted pathological signals and patterns from brain MRI.
 
-See my  <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for an up-to-date list of articles from projects I have contributed to.
+See my <a href="short-cv.pdf">short CV</a> for more details or my <a href="https://scholar.google.com/citations?user=g1EY49YAAAAJ">Google Scholar page</a> for an up-to-date list of articles from projects I have contributed to.
 
 
 ## <a names="philosophy"></a>Philosophy
